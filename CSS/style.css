@@ -80,3 +80,8 @@ body {
 	text-decoration: none;
 	color: black;
 }
+
+#direct-logo{
+  margin: auto;
+  display: block;
+}
